@@ -7,7 +7,7 @@ Running Result:
 
 UnitTest Result:
 
-<img src="https://raw.githubusercontent.com/ly2018/SimpleSpreadSheetApp/master/result2.png">
+<img src="https://raw.githubusercontent.com/ly2018/SimpleSpreadSheetApp/master/result3.png">
 
 
 Simple spread sheet console app, by Vic Li
